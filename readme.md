@@ -1,0 +1,1 @@
+A simple to do API using dotnet core. Just something to jog my WebApi memory.
